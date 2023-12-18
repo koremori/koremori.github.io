@@ -1,6 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+### 🚧 Construction Site 🚧
+
+{% highlight ruby %}
+NAME = 'koremori'.freeze
+
+def hello(name)
+  puts "Hi, I am #{name}"
+end
+
+hello(NAME)
+{% endhighlight %}
+
+[github](https://github.com/koremori)
